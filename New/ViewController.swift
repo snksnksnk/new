@@ -13,5 +13,6 @@ class ViewController:UIViewController{
     override func viewDidLoad() {
         super.viewDidLoad()
         let text = "jhfkdsjhffdsfsdsfsdf"
+        let text2 = "detached"
     }
 }
